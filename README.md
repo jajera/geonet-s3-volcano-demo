@@ -48,3 +48,4 @@ npm run build
 ```bash
 npm run preview
 ```
+npm run gh-pages

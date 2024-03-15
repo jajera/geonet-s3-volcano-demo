@@ -1,4 +1,4 @@
-# geonet-volcano-demo
+# geonet-s3-volcano-demo
 
 
 ## Installation
@@ -37,7 +37,13 @@ npm install @sveltejs/adapter-static --save-dev
 
 ## Building
 
-1. Create production version
+1. Generate site content from AWS S3 bucket
+
+```bash
+.devcontainer/scripts/createPageContent.sh
+```
+
+2. Create production version
 
 ```bash
 npm run build
@@ -50,15 +56,15 @@ npm run preview
 ```
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/jajera/geonet-volcano-demo.svg?style=for-the-badge
-[contributors-url]: https://github.com/jajera/geonet-volcano-demo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jajera/geonet-volcano-demo.svg?style=for-the-badge
-[forks-url]: https://github.com/jajera/geonet-volcano-demo/network/members
-[stars-shield]: https://img.shields.io/github/stars/jajera/geonet-volcano-demo.svg?style=for-the-badge
-[stars-url]: https://github.com/jajera/geonet-volcano-demo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jajera/geonet-volcano-demo.svg?style=for-the-badge
-[issues-url]: https://github.com/jajera/geonet-volcano-demo/issues
-[license-shield]: https://img.shields.io/github/license/jajera/geonet-volcano-demo.svg?style=for-the-badge
-[license-url]: https://github.com/jajera/geonet-volcano-demo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/jajera/geonet-s3-volcano-demo.svg?style=for-the-badge
+[contributors-url]: https://github.com/jajera/geonet-s3-volcano-demo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jajera/geonet-s3-volcano-demo.svg?style=for-the-badge
+[forks-url]: https://github.com/jajera/geonet-s3-volcano-demo/network/members
+[stars-shield]: https://img.shields.io/github/stars/jajera/geonet-s3-volcano-demo.svg?style=for-the-badge
+[stars-url]: https://github.com/jajera/geonet-s3-volcano-demo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jajera/geonet-s3-volcano-demo.svg?style=for-the-badge
+[issues-url]: https://github.com/jajera/geonet-s3-volcano-demo/issues
+[license-shield]: https://img.shields.io/github/license/jajera/geonet-s3-volcano-demo.svg?style=for-the-badge
+[license-url]: https://github.com/jajera/geonet-s3-volcano-demo/blob/master/LICENSE.txt
 [kit.svelte.dev]: https://img.shields.io/badge/SvelteKit-C7C7C7?style=for-the-badge&logo=svelte&logoColor=FF470C
 [svelte-url]: https://kit.svelte.dev

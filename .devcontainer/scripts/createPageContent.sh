@@ -250,7 +250,7 @@ for SUB_DIR in $SUB_DIRS; do
   YEAR=$(echo "$DATETIMESTAMP_RAW" | cut -d '.' -f1)
   DOY=$(echo "$DATETIMESTAMP_RAW" | cut -d '.' -f2)
   TIME=$(echo "$DATETIMESTAMP_RAW" | cut -d '.' -f3)
-  DATE_MONTH=$(date -d "$YEAR-01-01 +$((DOY-1)) days" +"%d %B")
+  DATE_MONTH=$(date -d "$YEAR-01-01 +$((10#$DOY-1)) days" +"%d %B")
   DATETIMESTAMP=$(echo "$DATE_MONTH $YEAR, $TIME")
   FILENAME=$(basename "$LATEST_IMAGE")
 

@@ -267,7 +267,7 @@ for SUB_DIR in $SUB_DIRS; do
 #             </td>
 #         </tr>"
 #   ((index++))
-# done
+done
 
 # BOTTOM_CONTENT='
 #       </tbody><tbody> </tbody>

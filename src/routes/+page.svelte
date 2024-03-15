@@ -224,7 +224,7 @@
           <th>Id</th>
           <th>Location</th>
           <th>Filename</th>
-          <th>Date Timestamp</th>
+          <th>Date Timestamp (GMT)</th>
           <th>Image</th>
         </tr>
       </thead>

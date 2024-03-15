@@ -1,4 +1,4 @@
-import{s as h,n as l}from"../chunks/scheduler.BvLojk_z.js";import{S as m,i as b,e as i,s as f,c,a as u,g as x,b as p,d,f as s}from"../chunks/index.DlSoLAPZ.js";function y(g){let a,o,e,n=`<head><meta charset="UTF-8"/> <meta name="viewport" content="width=device-width, initial-scale=1.0"/> <title>GeoNet Camera DemoS</title> <style>*{
+import{s as h,n as l}from"../chunks/scheduler.BvLojk_z.js";import{S as m,i as b,e as i,s as f,c,a as u,g as x,b as p,d,f as s}from"../chunks/index.DlSoLAPZ.js";function y(g){let a,o,e,n=`<head><meta charset="UTF-8"/> <meta name="viewport" content="width=device-width, initial-scale=1.0"/> <title>GeoNet Camera Demo</title> <style>*{
         box-sizing: border-box;
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
@@ -221,4 +221,4 @@ import{s as h,n as l}from"../chunks/scheduler.BvLojk_z.js";import{S as m,i as b,
     function closeModal() {
       document.querySelector(".overlay").style.display = "none";
       document.querySelector(".modal").style.display = "none";
-    }<\/script></body>`;return{c(){a=i("!DOCTYPE"),o=f(),e=i("html"),e.innerHTML=n,this.h()},l(t){a=c(t,"!DOCTYPE",{html:!0}),o=u(t),e=c(t,"HTML",{lang:!0,"data-svelte-h":!0}),x(e)!=="svelte-wqoktx"&&(e.innerHTML=n),this.h()},h(){p(a,"html",""),p(e,"lang","en")},m(t,r){d(t,a,r),d(t,o,r),d(t,e,r)},p:l,i:l,o:l,d(t){t&&(s(a),s(o),s(e))}}}class T extends m{constructor(a){super(),b(this,a,null,y,h,{})}}export{T as component};
+    }<\/script></body>`;return{c(){a=i("!DOCTYPE"),o=f(),e=i("html"),e.innerHTML=n,this.h()},l(t){a=c(t,"!DOCTYPE",{html:!0}),o=u(t),e=c(t,"HTML",{lang:!0,"data-svelte-h":!0}),x(e)!=="svelte-kony16"&&(e.innerHTML=n),this.h()},h(){p(a,"html",""),p(e,"lang","en")},m(t,r){d(t,a,r),d(t,o,r),d(t,e,r)},p:l,i:l,o:l,d(t){t&&(s(a),s(o),s(e))}}}class T extends m{constructor(a){super(),b(this,a,null,y,h,{})}}export{T as component};

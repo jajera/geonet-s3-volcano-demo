@@ -36,13 +36,16 @@ jobs:
       - name: Generate Content
         run: |
           AWS_EC2_METADATA_DISABLED=true
+          python --version
+          python3 --version
+          
           # ./.devcontainer/scripts/createPageContent.sh
           # aws s3api list-objects-v2 --no-sign-request --bucket geonet-open-data --prefix camera/volcano/images/2024/MTSR
           # aws s3api list-objects-v2 --no-sign-request --bucket geonet-open-data --prefix camera/volcano/images/2024/MTSR
-          aws s3api list-objects-v2 \
-            --no-sign-request \
-            --bucket geonet-open-data \
-            --prefix camera/volcano/images/2024/MTSR
+          # aws s3api list-objects-v2 \
+          #   --no-sign-request \
+          #   --bucket geonet-open-data \
+          #   --prefix camera/volcano/images/2024/MTSR
           
         # shell: bash
       # - name: Use Node.js

@@ -245,8 +245,7 @@ index=0
 for SUB_DIR in $SUB_DIRS; do
 	echo "Processing $SUB_DIR"
 	# LATEST_IMAGE="$(aws s3api list-objects-v2 --no-sign-request --bucket $S3_BUCKET --prefix camera/volcano/images/${CURRENT_YEAR}/${SUB_DIR} | grep '"Key"' | tail -n 1 | awk -F'"' '{print $4}')"
-  echo "SUB_DIR: $(SUB_DIR)"
-  echo "CURRENT_YEAR: $(CURRENT_YEAR)"
+  echo "CURRENT_YEAR: $CURRENT_YEAR"
   echo "aws s3api list-objects-v2 --no-sign-request --bucket $S3_BUCKET --prefix camera/volcano/images/${CURRENT_YEAR}/${SUB_DIR} | grep '\"Key\"' | tail -n 1 | awk -F'\"' '{print $4}'"
 #   LOCATION=$(echo "${SUB_DIR_NAMES[$index]}")
 #   DATETIMESTAMP_RAW="$(echo $LATEST_IMAGE | grep -oP '\d{4}\.\d{3}\.\d{4}')"

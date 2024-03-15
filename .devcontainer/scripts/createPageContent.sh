@@ -15,7 +15,7 @@ TOP_CONTENT='
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GeoNet Camera DemoS</title>
+    <title>GeoNet Camera Demo</title>
     <style>
       *{
         box-sizing: border-box;

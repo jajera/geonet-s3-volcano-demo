@@ -246,7 +246,7 @@ for SUB_DIR in $SUB_DIRS; do
 	echo "Processing $SUB_DIR"
 	# LATEST_IMAGE="$(aws s3api list-objects-v2 --no-sign-request --bucket $S3_BUCKET)"
   # echo "LATEST_IMAGE: $LATEST_IMAGE"
-  aws s3api list-objects-v2 --no-sign-request --bucket geonet-open-data --prefix camera/volcano/images/2024/MTSR
+  aws s3api list-objects-v2 --no-sign-request --bucket geonet-open-data
 #   LOCATION=$(echo "${SUB_DIR_NAMES[$index]}")
 #   DATETIMESTAMP_RAW="$(echo $LATEST_IMAGE | grep -oP '\d{4}\.\d{3}\.\d{4}')"
 #   YEAR=$(echo "$DATETIMESTAMP_RAW" | cut -d '.' -f1)

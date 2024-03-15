@@ -244,7 +244,7 @@ TOP_CONTENT='
 index=0
 for SUB_DIR in $SUB_DIRS; do
 	echo "Processing $SUB_DIR"
-	LATEST_IMAGE="$(aws s3api list-objects-v2 --no-sign-request --bucket $S3_BUCKET --prefix camera/volcano/images/${CURRENT_YEAR}/${SUB_DIR} | grep '"Key"' | tail -n 1 | awk -F'"' '{print $4}')"
+	LATEST_IMAGE="$(aws s3api list-objects-v2 --no-sign-request --bucket $S3_BUCKET --prefix camera/volcano/images/${CURRENT_YEAR}/${SUB_DIR})"
   echo "LATEST_IMAGE: $LATEST_IMAGE"
 
 #   LOCATION=$(echo "${SUB_DIR_NAMES[$index]}")

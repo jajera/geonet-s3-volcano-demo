@@ -24,10 +24,9 @@ concurrency:
 
 jobs:
   # Single deploy job since we're just deploying
-  deploy:
+  generate:
     environment:
       name: site-content
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     container:
       image: ghcr.io/platformfuzz/image-builder/ubuntu-awscli:latest
@@ -35,7 +34,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - run: |
-          ls
+          ls -la
       # - name: Use Node.js
       #   uses: actions/setup-node@v4
       #   with:

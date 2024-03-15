@@ -41,8 +41,10 @@ jobs:
           node-version: '20.11.1'
       - name: Install dependencies
         run: npm install
-      - run: npm install @sveltejs/adapter-static --save-dev
-      - run: npm run build
+      - name: Install svelte static adapter
+        run: npm install @sveltejs/adapter-static --save-dev
+      - name: Initiate Build
+        run: npm run build
       - name: Commit Changes
         uses: EndBug/add-and-commit@v9
         with:

@@ -1,0 +1,48 @@
+# Simple workflow for deploying static content to GitHub Pages
+name: Generate Site content
+
+on:
+  # Runs on schedule targeting the default branch
+  schedule:
+      - cron: '0 * * * *'
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow content update
+permissions:
+  contents: write
+  pages: read
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+concurrency:
+  group:  ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  # Single deploy job since we're just deploying
+  deploy:
+    environment:
+      name: site-content
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/platformfuzz/image-builder/ubuntu-awscli:latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - run: |
+          ls
+      # - name: Use Node.js
+      #   uses: actions/setup-node@v4
+      #   with:
+      #     node-version: '20.11.1'
+      # - name: Install dependencies
+      #   run: npm install
+      # - run: npm install @sveltejs/adapter-static --save-dev
+      # - run: npm run build
+
+

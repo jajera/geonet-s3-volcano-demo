@@ -36,7 +36,7 @@ jobs:
       - name: Generate Content
         run: |
           # ./.devcontainer/scripts/createPageContent.sh
-          aws s3api list-objects-v2 --no-sign-request --bucket geonet-open-data --prefix camera/volcano/images/2024/MTSR | grep '"Key"' | tail -n 1 | awk -F'"' '{print $4}'
+          aws s3api list-objects-v2 --no-sign-request --bucket geonet-open-data --prefix camera/volcano/images/2024/MTSR
         shell: bash
       # - name: Use Node.js
       #   uses: actions/setup-node@v4

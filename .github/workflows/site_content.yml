@@ -28,33 +28,24 @@ jobs:
     environment:
       name: site-content
     runs-on: ubuntu-latest
-    # container:
-    #   image: ghcr.io/platformfuzz/image-builder/ubuntu-awscli:latest
+    container:
+      image: ghcr.io/platformfuzz/image-builder/ubuntu-awscli:latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Generate Content
         run: |
           export AWS_EC2_METADATA_DISABLED=true
-          # export AWS_DEFAULT_REGION=ap-southeast-2
-          ./.devcontainer/scripts/createPageContent.sh
-          # aws s3api list-objects-v2 --no-sign-request --bucket geonet-open-data --prefix camera/volcano/images/2024/MTSR
-          # aws s3api list-objects-v2 --no-sign-request --bucket geonet-open-data --prefix camera/volcano/images/2024/MTSR
-          # aws s3api list-objects-v2 \
-          #   --no-sign-request \
-          #   --bucket geonet-open-data \
-          #   --prefix camera/volcano/images/2024/MTSR
-          
-        # shell: bash
-      # - name: Use Node.js
-      #   uses: actions/setup-node@v4
-      #   with:
-      #     node-version: '20.11.1'
-      # - name: Install dependencies
-      #   run: npm install
-      # - run: npm install @sveltejs/adapter-static --save-dev
-      # - run: npm run build
-      # - name: Commit Changes
-      #   uses: EndBug/add-and-commit@v9
-      #   with:
-      #     default_author: github_actions
+          ./.devcontainer/scripts/createPageContent.sh         
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.11.1'
+      - name: Install dependencies
+        run: npm install
+      - run: npm install @sveltejs/adapter-static --save-dev
+      - run: npm run build
+      - name: Commit Changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions

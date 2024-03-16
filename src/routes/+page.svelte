@@ -67,6 +67,17 @@
         background: #F8F8F8;
       }
 
+      /* footer */
+
+      .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        color: white;
+        text-align: center;
+      }
+
       /* Responsive */
 
       @media (max-width: 767px) {
@@ -224,7 +235,7 @@
           <th>Id</th>
           <th>Location</th>
           <th>Filename</th>
-          <th>Date Timestamp (GMT)</th>
+          <th>Date Timestamp (UTC)</th>
           <th>Image</th>
         </tr>
       </thead>
@@ -309,13 +320,14 @@
       </tbody><tbody> </tbody>
     </table>
   </div>
-  
   <div class="overlay"></div>
   <div class="modal">
     <span class="close">&times;</span>
     <img src="" alt="" />
   </div>
-
+  <div class="footer">
+    <p>Last update: 16 March 2024, 01:59 AM UTC</p>
+  </div>
   <script>
     document.querySelectorAll(".trigger").forEach(trigger => {
       trigger.addEventListener("click", function (event) {

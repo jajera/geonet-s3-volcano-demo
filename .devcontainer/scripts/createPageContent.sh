@@ -78,6 +78,17 @@ TOP_CONTENT='
         background: #F8F8F8;
       }
 
+      /* footer */
+
+      .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        color: white;
+        text-align: center;
+      }
+
       /* Responsive */
 
       @media (max-width: 767px) {
@@ -235,7 +246,7 @@ TOP_CONTENT='
           <th>Id</th>
           <th>Location</th>
           <th>Filename</th>
-          <th>Date Timestamp (GMT)</th>
+          <th>Date Timestamp (UTC)</th>
           <th>Image</th>
         </tr>
       </thead>
@@ -269,40 +280,45 @@ for SUB_DIR in $SUB_DIRS; do
   ((index++))
 done
 
-BOTTOM_CONTENT='
+CURRENT_DATE=$(date +"%d %B %Y")
+CURRENT_TIME=$(date +"%H%M %Z")
+TIME_FORMATTED=$(date -d "$CURRENT_TIME" +"%I:%M %p %Z")
+
+BOTTOM_CONTENT="
       </tbody><tbody> </tbody>
     </table>
   </div>
-  
-  <div class="overlay"></div>
-  <div class="modal">
-    <span class="close">&times;</span>
-    <img src="" alt="" />
+  <div class=\"overlay\"></div>
+  <div class=\"modal\">
+    <span class=\"close\">&times;</span>
+    <img src=\"\" alt=\"\" />
   </div>
-
+  <div class=\"footer\">
+    <p>Last update: $CURRENT_DATE, $TIME_FORMATTED</p>
+  </div>
   <script>
-    document.querySelectorAll(".trigger").forEach(trigger => {
-      trigger.addEventListener("click", function (event) {
+    document.querySelectorAll(\".trigger\").forEach(trigger => {
+      trigger.addEventListener(\"click\", function (event) {
         event.preventDefault();
-        const imageURL = this.getAttribute("href");
-        const modal = document.querySelector(".modal");
-        const enlargedImage = modal.querySelector("img");
-        enlargedImage.setAttribute("src", imageURL);
-        document.querySelector(".overlay").style.display = "block";
-        modal.style.display = "block";
+        const imageURL = this.getAttribute(\"href\");
+        const modal = document.querySelector(\".modal\");
+        const enlargedImage = modal.querySelector(\"img\");
+        enlargedImage.setAttribute(\"src\", imageURL);
+        document.querySelector(\".overlay\").style.display = \"block\";
+        modal.style.display = \"block\";
       });
     });
 
-    document.querySelector(".close").addEventListener("click", () => closeModal());
-    document.querySelector(".overlay").addEventListener("click", () => closeModal());
+    document.querySelector(\".close\").addEventListener(\"click\", () => closeModal());
+    document.querySelector(\".overlay\").addEventListener(\"click\", () => closeModal());
 
     function closeModal() {
-      document.querySelector(".overlay").style.display = "none";
-      document.querySelector(".modal").style.display = "none";
+      document.querySelector(\".overlay\").style.display = \"none\";
+      document.querySelector(\".modal\").style.display = \"none\";
     }
   </script>
 </body>
-</html>'
+</html>"
 
 echo "$TOP_CONTENT$BODY_CONTENT$BOTTOM_CONTENT" > src/routes/+page.svelte
 

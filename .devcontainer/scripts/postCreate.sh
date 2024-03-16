@@ -1,4 +1,6 @@
 # Include commands that you would like to execute after the container is created
+apt-get update -y
+
 apt-get install -y curl git unzip
 
 curl -fsSL https://deb.nodesource.com/setup_21.x | bash -

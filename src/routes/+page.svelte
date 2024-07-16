@@ -243,22 +243,22 @@
         <tr>
             <td>KAKA</td>
             <td>Tongariro</td>
-            <td>2024.196.1310.00.KAKA.01.jpg</td>
-            <td>14 July 2024, 1310</td>
+            <td>2024.198.0310.00.KAKA.01.jpg</td>
+            <td>16 July 2024, 0310</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KAKA/KAKA.01/2024.196/2024.196.1310.00.KAKA.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KAKA/KAKA.01/2024.196/2024.196.1310.00.KAKA.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KAKA/KAKA.01/2024.198/2024.198.0310.00.KAKA.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KAKA/KAKA.01/2024.198/2024.198.0310.00.KAKA.01.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>KMTP</td>
             <td>Ruapehu & Ngauruhoe</td>
-            <td>2024.196.1310.00.KMTP.01.jpg</td>
-            <td>14 July 2024, 1310</td>
+            <td>2024.198.0310.00.KMTP.01.jpg</td>
+            <td>16 July 2024, 0310</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KMTP/KMTP.01/2024.196/2024.196.1310.00.KMTP.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KMTP/KMTP.01/2024.196/2024.196.1310.00.KMTP.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KMTP/KMTP.01/2024.198/2024.198.0310.00.KMTP.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KMTP/KMTP.01/2024.198/2024.198.0310.00.KMTP.01.jpg" alt="">
               </a>
             </td>
         </tr>
@@ -326,7 +326,7 @@
     <img src="" alt="" />
   </div>
   <div class="footer">
-    <p>Last update: 16 July 2024, 03:19 AM UTC</p>
+    <p>Last update: 16 July 2024, 04:17 AM UTC</p>
   </div>
   <script>
     document.querySelectorAll(".trigger").forEach(trigger => {

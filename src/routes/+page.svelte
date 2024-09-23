@@ -287,33 +287,33 @@
         <tr>
             <td>TEMO</td>
             <td>Taranaki</td>
-            <td>2024.266.1310.00.TEMO.02.jpg</td>
-            <td>22 September 2024, 1310</td>
+            <td>2024.267.0310.00.TEMO.02.jpg</td>
+            <td>23 September 2024, 0310</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/TEMO/TEMO.02/2024.266/2024.266.1310.00.TEMO.02.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/TEMO/TEMO.02/2024.266/2024.266.1310.00.TEMO.02.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/TEMO/TEMO.02/2024.267/2024.267.0310.00.TEMO.02.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/TEMO/TEMO.02/2024.267/2024.267.0310.00.TEMO.02.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>TOKR</td>
             <td>Tongariro Te Maari Crater</td>
-            <td>2024.266.1310.00.TOKR.01.jpg</td>
-            <td>22 September 2024, 1310</td>
+            <td>2024.267.0310.00.TOKR.01.jpg</td>
+            <td>23 September 2024, 0310</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/TOKR/TOKR.01/2024.266/2024.266.1310.00.TOKR.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/TOKR/TOKR.01/2024.266/2024.266.1310.00.TOKR.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/TOKR/TOKR.01/2024.267/2024.267.0310.00.TOKR.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/TOKR/TOKR.01/2024.267/2024.267.0310.00.TOKR.01.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>WHOH</td>
             <td>Whakatane</td>
-            <td>2024.266.1310.00.WHOH.02.jpg</td>
-            <td>22 September 2024, 1310</td>
+            <td>2024.267.0310.00.WHOH.02.jpg</td>
+            <td>23 September 2024, 0310</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/WHOH/WHOH.02/2024.266/2024.266.1310.00.WHOH.02.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/WHOH/WHOH.02/2024.266/2024.266.1310.00.WHOH.02.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/WHOH/WHOH.02/2024.267/2024.267.0310.00.WHOH.02.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/WHOH/WHOH.02/2024.267/2024.267.0310.00.WHOH.02.jpg" alt="">
               </a>
             </td>
         </tr>
@@ -326,7 +326,7 @@
     <img src="" alt="" />
   </div>
   <div class="footer">
-    <p>Last update: 23 September 2024, 02:49 AM UTC</p>
+    <p>Last update: 23 September 2024, 03:22 AM UTC</p>
   </div>
   <script>
     document.querySelectorAll(".trigger").forEach(trigger => {

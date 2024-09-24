@@ -298,22 +298,22 @@
         <tr>
             <td>TOKR</td>
             <td>Tongariro Te Maari Crater</td>
-            <td>2024.267.0310.00.TOKR.01.jpg</td>
-            <td>23 September 2024, 0310</td>
+            <td>2024.268.0310.00.TOKR.01.jpg</td>
+            <td>24 September 2024, 0310</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/TOKR/TOKR.01/2024.267/2024.267.0310.00.TOKR.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/TOKR/TOKR.01/2024.267/2024.267.0310.00.TOKR.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/TOKR/TOKR.01/2024.268/2024.268.0310.00.TOKR.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/TOKR/TOKR.01/2024.268/2024.268.0310.00.TOKR.01.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>WHOH</td>
             <td>Whakatane</td>
-            <td>2024.267.0310.00.WHOH.02.jpg</td>
-            <td>23 September 2024, 0310</td>
+            <td>2024.268.0320.00.WHOH.02.jpg</td>
+            <td>24 September 2024, 0320</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/WHOH/WHOH.02/2024.267/2024.267.0310.00.WHOH.02.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/WHOH/WHOH.02/2024.267/2024.267.0310.00.WHOH.02.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/WHOH/WHOH.02/2024.268/2024.268.0320.00.WHOH.02.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/WHOH/WHOH.02/2024.268/2024.268.0320.00.WHOH.02.jpg" alt="">
               </a>
             </td>
         </tr>
@@ -326,7 +326,7 @@
     <img src="" alt="" />
   </div>
   <div class="footer">
-    <p>Last update: 24 September 2024, 02:49 AM UTC</p>
+    <p>Last update: 24 September 2024, 03:21 AM UTC</p>
   </div>
   <script>
     document.querySelectorAll(".trigger").forEach(trigger => {

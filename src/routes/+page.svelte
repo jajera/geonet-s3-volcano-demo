@@ -309,11 +309,11 @@
         <tr>
             <td>WHOH</td>
             <td>Whakatane</td>
-            <td>2024.275.0320.00.WHOH.02.jpg</td>
-            <td>01 October 2024, 0320</td>
+            <td>2024.276.0320.00.WHOH.02.jpg</td>
+            <td>02 October 2024, 0320</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/WHOH/WHOH.02/2024.275/2024.275.0320.00.WHOH.02.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/WHOH/WHOH.02/2024.275/2024.275.0320.00.WHOH.02.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/WHOH/WHOH.02/2024.276/2024.276.0320.00.WHOH.02.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/WHOH/WHOH.02/2024.276/2024.276.0320.00.WHOH.02.jpg" alt="">
               </a>
             </td>
         </tr>
@@ -326,7 +326,7 @@
     <img src="" alt="" />
   </div>
   <div class="footer">
-    <p>Last update: 02 October 2024, 02:48 AM UTC</p>
+    <p>Last update: 02 October 2024, 03:22 AM UTC</p>
   </div>
   <script>
     document.querySelectorAll(".trigger").forEach(trigger => {

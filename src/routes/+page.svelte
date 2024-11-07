@@ -243,11 +243,11 @@
         <tr>
             <td>KAKA</td>
             <td>Tongariro</td>
-            <td>2024.311.0310.00.KAKA.01.jpg</td>
-            <td>06 November 2024, 0310</td>
+            <td>2024.312.0310.00.KAKA.01.jpg</td>
+            <td>07 November 2024, 0310</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KAKA/KAKA.01/2024.311/2024.311.0310.00.KAKA.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KAKA/KAKA.01/2024.311/2024.311.0310.00.KAKA.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KAKA/KAKA.01/2024.312/2024.312.0310.00.KAKA.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KAKA/KAKA.01/2024.312/2024.312.0310.00.KAKA.01.jpg" alt="">
               </a>
             </td>
         </tr>
@@ -326,7 +326,7 @@
     <img src="" alt="" />
   </div>
   <div class="footer">
-    <p>Last update: 07 November 2024, 03:23 AM UTC</p>
+    <p>Last update: 07 November 2024, 04:19 AM UTC</p>
   </div>
   <script>
     document.querySelectorAll(".trigger").forEach(trigger => {

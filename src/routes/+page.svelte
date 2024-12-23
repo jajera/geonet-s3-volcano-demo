@@ -243,44 +243,44 @@
         <tr>
             <td>KAKA</td>
             <td>Tongariro</td>
-            <td>2024.357.1310.00.KAKA.01.jpg</td>
-            <td>22 December 2024, 1310</td>
+            <td>2024.358.0310.00.KAKA.01.jpg</td>
+            <td>23 December 2024, 0310</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KAKA/KAKA.01/2024.357/2024.357.1310.00.KAKA.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KAKA/KAKA.01/2024.357/2024.357.1310.00.KAKA.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KAKA/KAKA.01/2024.358/2024.358.0310.00.KAKA.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KAKA/KAKA.01/2024.358/2024.358.0310.00.KAKA.01.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>KMTP</td>
             <td>Ruapehu & Ngauruhoe</td>
-            <td>2024.357.1300.00.KMTP.01.jpg</td>
-            <td>22 December 2024, 1300</td>
+            <td>2024.358.0310.00.KMTP.01.jpg</td>
+            <td>23 December 2024, 0310</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KMTP/KMTP.01/2024.357/2024.357.1300.00.KMTP.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KMTP/KMTP.01/2024.357/2024.357.1300.00.KMTP.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KMTP/KMTP.01/2024.358/2024.358.0310.00.KMTP.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/KMTP/KMTP.01/2024.358/2024.358.0310.00.KMTP.01.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>MTSR</td>
             <td>Ruapehu South</td>
-            <td>2024.357.1310.00.MTSR.01.jpg</td>
-            <td>22 December 2024, 1310</td>
+            <td>2024.358.0310.00.MTSR.01.jpg</td>
+            <td>23 December 2024, 0310</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/MTSR/MTSR.01/2024.357/2024.357.1310.00.MTSR.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/MTSR/MTSR.01/2024.357/2024.357.1310.00.MTSR.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/MTSR/MTSR.01/2024.358/2024.358.0310.00.MTSR.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/MTSR/MTSR.01/2024.358/2024.358.0310.00.MTSR.01.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>RIMK</td>
             <td>Raoul Island</td>
-            <td>2024.358.0250.00.RIMK.01.jpg</td>
-            <td>23 December 2024, 0250</td>
+            <td>2024.358.0310.00.RIMK.01.jpg</td>
+            <td>23 December 2024, 0310</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/RIMK/RIMK.01/2024.358/2024.358.0250.00.RIMK.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/RIMK/RIMK.01/2024.358/2024.358.0250.00.RIMK.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/RIMK/RIMK.01/2024.358/2024.358.0310.00.RIMK.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2024/RIMK/RIMK.01/2024.358/2024.358.0310.00.RIMK.01.jpg" alt="">
               </a>
             </td>
         </tr>
@@ -326,7 +326,7 @@
     <img src="" alt="" />
   </div>
   <div class="footer">
-    <p>Last update: 23 December 2024, 03:23 AM UTC</p>
+    <p>Last update: 23 December 2024, 04:21 AM UTC</p>
   </div>
   <script>
     document.querySelectorAll(".trigger").forEach(trigger => {

@@ -4,8 +4,30 @@ export AWS_PAGER=""
 
 CURRENT_YEAR=$(date +'%Y')
 S3_BUCKET='geonet-open-data'
-SUB_DIRS='KAKA KMTP MTSR RIMK TEMO TOKR WHOH'
-SUB_DIR_NAMES=("Tongariro" "Ruapehu & Ngauruhoe" "Ruapehu South" "Raoul Island" "Taranaki" "Tongariro Te Maari Crater" "Whakatane")
+SUB_DIRS='
+DISC/DISC.01
+DISC/DISC.02
+KAKA
+KMTP
+MTSR
+RIMK
+TEMO
+TKAH
+TOKR
+WHOH
+'
+SUB_DIR_NAMES=(
+  "Ruapehu North"
+  "Ngauruhoe"
+  "Tongariro"
+  "Ruapehu & Ngauruhoe"
+  "Ruapehu South"
+  "Raoul Island"
+  "Taranaki"
+  "Te Kaha"
+  "Tongariro Te Maari Crater"
+  "Whakatane"
+)
 AWS_REGION='ap-southeast-2'
 S3_BUCKET_URL="https://${S3_BUCKET}.s3-${AWS_REGION}.amazonaws.com"
 

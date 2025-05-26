@@ -1,59 +1,65 @@
 # geonet-s3-volcano-demo
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![License][license-shield]][license-url]
+[![SvelteKit][kit.svelte.dev]][svelte-url]
 
 ## Installation
 
 1. Create new Svelte project
 
-```bash
-npm init @svelte-add/kit@latest svelte -- --demos false --with typescript+eslint+prettier+playwright
-```
+    ```bash
+    npm init @svelte-add/kit@latest svelte -- --demos false --with typescript+eslint+prettier+playwright
+    ```
 
 2. Change directory
 
-```bash
-cd svelte/
-```
+    ```bash
+    cd svelte/
+    ```
 
 3. Install dependencies
 
-```bash
-npm install
-```
+    ```bash
+    npm install
+    ```
 
 ## Developing
 
 1. Run development server
 
-```bash
-npm run dev
-```
+    ```bash
+    npm run dev
+    ```
 
 2. Install static adapter
 
-```bash
-npm install @sveltejs/adapter-static --save-dev
-```
+    ```bash
+    npm install @sveltejs/adapter-static --save-dev
+    ```
 
 ## Building
 
 1. Generate site content from AWS S3 bucket
 
-```bash
-.devcontainer/scripts/createPageContent.sh
-```
+    ```bash
+    .devcontainer/scripts/createPageContent.sh
+    ```
 
 2. Create production version
 
-```bash
-npm run build
-```
+    ```bash
+    npm run build
+    ```
 
-2. Preview production build
+3. Preview production build
 
-```bash
-npm run preview
-```
+    ```bash
+    npm run preview
+    ```
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/jajera/geonet-s3-volcano-demo.svg?style=for-the-badge

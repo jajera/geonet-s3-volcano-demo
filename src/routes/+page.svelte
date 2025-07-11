@@ -243,110 +243,110 @@
         <tr>
             <td>DISC/DISC.01</td>
             <td>Ruapehu North</td>
-            <td>2025.191.1700.00.DISC.01.jpg</td>
-            <td>10 July 2025, 1700</td>
+            <td>2025.192.0200.00.DISC.01.jpg</td>
+            <td>11 July 2025, 0200</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/DISC/DISC.01/2025.191/2025.191.1700.00.DISC.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/DISC/DISC.01/2025.191/2025.191.1700.00.DISC.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/DISC/DISC.01/2025.192/2025.192.0200.00.DISC.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/DISC/DISC.01/2025.192/2025.192.0200.00.DISC.01.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>DISC/DISC.02</td>
             <td>Ngauruhoe</td>
-            <td>2025.191.1700.00.DISC.02.jpg</td>
-            <td>10 July 2025, 1700</td>
+            <td>2025.192.0200.00.DISC.02.jpg</td>
+            <td>11 July 2025, 0200</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/DISC/DISC.02/2025.191/2025.191.1700.00.DISC.02.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/DISC/DISC.02/2025.191/2025.191.1700.00.DISC.02.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/DISC/DISC.02/2025.192/2025.192.0200.00.DISC.02.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/DISC/DISC.02/2025.192/2025.192.0200.00.DISC.02.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>KAKA</td>
             <td>Tongariro</td>
-            <td>2025.191.1700.00.KAKA.01.jpg</td>
-            <td>10 July 2025, 1700</td>
+            <td>2025.192.0200.00.KAKA.01.jpg</td>
+            <td>11 July 2025, 0200</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/KAKA/KAKA.01/2025.191/2025.191.1700.00.KAKA.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/KAKA/KAKA.01/2025.191/2025.191.1700.00.KAKA.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/KAKA/KAKA.01/2025.192/2025.192.0200.00.KAKA.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/KAKA/KAKA.01/2025.192/2025.192.0200.00.KAKA.01.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>KMTP</td>
             <td>Ruapehu & Ngauruhoe</td>
-            <td>2025.191.1700.00.KMTP.01.jpg</td>
-            <td>10 July 2025, 1700</td>
+            <td>2025.192.0200.00.KMTP.01.jpg</td>
+            <td>11 July 2025, 0200</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/KMTP/KMTP.01/2025.191/2025.191.1700.00.KMTP.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/KMTP/KMTP.01/2025.191/2025.191.1700.00.KMTP.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/KMTP/KMTP.01/2025.192/2025.192.0200.00.KMTP.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/KMTP/KMTP.01/2025.192/2025.192.0200.00.KMTP.01.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>MTSR</td>
             <td>Ruapehu South</td>
-            <td>2025.191.1700.00.MTSR.01.jpg</td>
-            <td>10 July 2025, 1700</td>
+            <td>2025.192.0200.00.MTSR.01.jpg</td>
+            <td>11 July 2025, 0200</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/MTSR/MTSR.01/2025.191/2025.191.1700.00.MTSR.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/MTSR/MTSR.01/2025.191/2025.191.1700.00.MTSR.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/MTSR/MTSR.01/2025.192/2025.192.0200.00.MTSR.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/MTSR/MTSR.01/2025.192/2025.192.0200.00.MTSR.01.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>RIMK</td>
             <td>Raoul Island</td>
-            <td>2025.191.1700.00.RIMK.01.jpg</td>
-            <td>10 July 2025, 1700</td>
+            <td>2025.192.0200.00.RIMK.01.jpg</td>
+            <td>11 July 2025, 0200</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/RIMK/RIMK.01/2025.191/2025.191.1700.00.RIMK.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/RIMK/RIMK.01/2025.191/2025.191.1700.00.RIMK.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/RIMK/RIMK.01/2025.192/2025.192.0200.00.RIMK.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/RIMK/RIMK.01/2025.192/2025.192.0200.00.RIMK.01.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>TEMO</td>
             <td>Taranaki</td>
-            <td>2025.191.1700.00.TEMO.02.jpg</td>
-            <td>10 July 2025, 1700</td>
+            <td>2025.192.0200.00.TEMO.02.jpg</td>
+            <td>11 July 2025, 0200</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/TEMO/TEMO.02/2025.191/2025.191.1700.00.TEMO.02.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/TEMO/TEMO.02/2025.191/2025.191.1700.00.TEMO.02.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/TEMO/TEMO.02/2025.192/2025.192.0200.00.TEMO.02.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/TEMO/TEMO.02/2025.192/2025.192.0200.00.TEMO.02.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>TKAH</td>
             <td>Te Kaha</td>
-            <td>2025.191.1700.00.TKAH.01.jpg</td>
-            <td>10 July 2025, 1700</td>
+            <td>2025.192.0200.00.TKAH.01.jpg</td>
+            <td>11 July 2025, 0200</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/TKAH/TKAH.01/2025.191/2025.191.1700.00.TKAH.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/TKAH/TKAH.01/2025.191/2025.191.1700.00.TKAH.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/TKAH/TKAH.01/2025.192/2025.192.0200.00.TKAH.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/TKAH/TKAH.01/2025.192/2025.192.0200.00.TKAH.01.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>TOKR</td>
             <td>Tongariro Te Maari Crater</td>
-            <td>2025.191.1700.00.TOKR.01.jpg</td>
-            <td>10 July 2025, 1700</td>
+            <td>2025.192.0200.00.TOKR.01.jpg</td>
+            <td>11 July 2025, 0200</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/TOKR/TOKR.01/2025.191/2025.191.1700.00.TOKR.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/TOKR/TOKR.01/2025.191/2025.191.1700.00.TOKR.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/TOKR/TOKR.01/2025.192/2025.192.0200.00.TOKR.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/TOKR/TOKR.01/2025.192/2025.192.0200.00.TOKR.01.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>WHOH</td>
             <td>Whakatane</td>
-            <td>2025.191.1700.00.WHOH.03.jpg</td>
-            <td>10 July 2025, 1700</td>
+            <td>2025.192.0200.00.WHOH.03.jpg</td>
+            <td>11 July 2025, 0200</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/WHOH/WHOH.03/2025.191/2025.191.1700.00.WHOH.03.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/WHOH/WHOH.03/2025.191/2025.191.1700.00.WHOH.03.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/WHOH/WHOH.03/2025.192/2025.192.0200.00.WHOH.03.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2025/WHOH/WHOH.03/2025.192/2025.192.0200.00.WHOH.03.jpg" alt="">
               </a>
             </td>
         </tr>
@@ -359,7 +359,7 @@
     <img src="" alt="" />
   </div>
   <div class="footer">
-    <p>Last update: 10 July 2025, 05:20 PM UTC</p>
+    <p>Last update: 11 July 2025, 02:56 AM UTC</p>
   </div>
   <script>
     document.querySelectorAll(".trigger").forEach(trigger => {

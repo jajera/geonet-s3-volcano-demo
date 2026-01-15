@@ -359,7 +359,7 @@
     <img src="" alt="" />
   </div>
   <div class="footer">
-    <p>Last update: 14 January 2026, 05:26 PM UTC</p>
+    <p>Last update: 15 January 2026, 02:57 AM UTC</p>
   </div>
   <script>
     document.querySelectorAll(".trigger").forEach(trigger => {

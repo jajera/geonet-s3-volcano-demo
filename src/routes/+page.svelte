@@ -243,55 +243,55 @@
         <tr>
             <td>DISC/DISC.01</td>
             <td>Ruapehu North</td>
-            <td>2026.049.0900.00.DISC.01.jpg</td>
-            <td>18 February 2026, 0900</td>
+            <td>2026.049.1700.00.DISC.01.jpg</td>
+            <td>18 February 2026, 1700</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/DISC/DISC.01/2026.049/2026.049.0900.00.DISC.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/DISC/DISC.01/2026.049/2026.049.0900.00.DISC.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/DISC/DISC.01/2026.049/2026.049.1700.00.DISC.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/DISC/DISC.01/2026.049/2026.049.1700.00.DISC.01.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>DISC/DISC.02</td>
             <td>Ngauruhoe</td>
-            <td>2026.049.0900.00.DISC.02.jpg</td>
-            <td>18 February 2026, 0900</td>
+            <td>2026.049.1700.00.DISC.02.jpg</td>
+            <td>18 February 2026, 1700</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/DISC/DISC.02/2026.049/2026.049.0900.00.DISC.02.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/DISC/DISC.02/2026.049/2026.049.0900.00.DISC.02.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/DISC/DISC.02/2026.049/2026.049.1700.00.DISC.02.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/DISC/DISC.02/2026.049/2026.049.1700.00.DISC.02.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>KAKA</td>
             <td>Tongariro</td>
-            <td>2026.049.0900.00.KAKA.01.jpg</td>
-            <td>18 February 2026, 0900</td>
+            <td>2026.049.1700.00.KAKA.01.jpg</td>
+            <td>18 February 2026, 1700</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/KAKA/KAKA.01/2026.049/2026.049.0900.00.KAKA.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/KAKA/KAKA.01/2026.049/2026.049.0900.00.KAKA.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/KAKA/KAKA.01/2026.049/2026.049.1700.00.KAKA.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/KAKA/KAKA.01/2026.049/2026.049.1700.00.KAKA.01.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>KMTP</td>
             <td>Ruapehu & Ngauruhoe</td>
-            <td>2026.049.0900.00.KMTP.01.jpg</td>
-            <td>18 February 2026, 0900</td>
+            <td>2026.049.1700.00.KMTP.01.jpg</td>
+            <td>18 February 2026, 1700</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/KMTP/KMTP.01/2026.049/2026.049.0900.00.KMTP.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/KMTP/KMTP.01/2026.049/2026.049.0900.00.KMTP.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/KMTP/KMTP.01/2026.049/2026.049.1700.00.KMTP.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/KMTP/KMTP.01/2026.049/2026.049.1700.00.KMTP.01.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>MTSR</td>
             <td>Ruapehu South</td>
-            <td>2026.049.0900.00.MTSR.01.jpg</td>
-            <td>18 February 2026, 0900</td>
+            <td>2026.049.1700.00.MTSR.01.jpg</td>
+            <td>18 February 2026, 1700</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/MTSR/MTSR.01/2026.049/2026.049.0900.00.MTSR.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/MTSR/MTSR.01/2026.049/2026.049.0900.00.MTSR.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/MTSR/MTSR.01/2026.049/2026.049.1700.00.MTSR.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/MTSR/MTSR.01/2026.049/2026.049.1700.00.MTSR.01.jpg" alt="">
               </a>
             </td>
         </tr>
@@ -309,44 +309,44 @@
         <tr>
             <td>TEMO</td>
             <td>Taranaki</td>
-            <td>2026.049.0900.00.TEMO.02.jpg</td>
-            <td>18 February 2026, 0900</td>
+            <td>2026.049.1700.00.TEMO.02.jpg</td>
+            <td>18 February 2026, 1700</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/TEMO/TEMO.02/2026.049/2026.049.0900.00.TEMO.02.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/TEMO/TEMO.02/2026.049/2026.049.0900.00.TEMO.02.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/TEMO/TEMO.02/2026.049/2026.049.1700.00.TEMO.02.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/TEMO/TEMO.02/2026.049/2026.049.1700.00.TEMO.02.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>TKAH</td>
             <td>Te Kaha</td>
-            <td>2026.049.0900.00.TKAH.01.jpg</td>
-            <td>18 February 2026, 0900</td>
+            <td>2026.049.1700.00.TKAH.01.jpg</td>
+            <td>18 February 2026, 1700</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/TKAH/TKAH.01/2026.049/2026.049.0900.00.TKAH.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/TKAH/TKAH.01/2026.049/2026.049.0900.00.TKAH.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/TKAH/TKAH.01/2026.049/2026.049.1700.00.TKAH.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/TKAH/TKAH.01/2026.049/2026.049.1700.00.TKAH.01.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>TOKR</td>
             <td>Tongariro Te Maari Crater</td>
-            <td>2026.049.0900.00.TOKR.01.jpg</td>
-            <td>18 February 2026, 0900</td>
+            <td>2026.049.1700.00.TOKR.01.jpg</td>
+            <td>18 February 2026, 1700</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/TOKR/TOKR.01/2026.049/2026.049.0900.00.TOKR.01.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/TOKR/TOKR.01/2026.049/2026.049.0900.00.TOKR.01.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/TOKR/TOKR.01/2026.049/2026.049.1700.00.TOKR.01.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/TOKR/TOKR.01/2026.049/2026.049.1700.00.TOKR.01.jpg" alt="">
               </a>
             </td>
         </tr>
         <tr>
             <td>WHOH</td>
             <td>Whakatane</td>
-            <td>2026.049.0900.00.WHOH.03.jpg</td>
-            <td>18 February 2026, 0900</td>
+            <td>2026.049.1700.00.WHOH.03.jpg</td>
+            <td>18 February 2026, 1700</td>
             <td>
-              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/WHOH/WHOH.03/2026.049/2026.049.0900.00.WHOH.03.jpg" class="trigger">
-                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/WHOH/WHOH.03/2026.049/2026.049.0900.00.WHOH.03.jpg" alt="">
+              <a href="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/WHOH/WHOH.03/2026.049/2026.049.1700.00.WHOH.03.jpg" class="trigger">
+                <img src="https://geonet-open-data.s3-ap-southeast-2.amazonaws.com/camera/volcano/images/2026/WHOH/WHOH.03/2026.049/2026.049.1700.00.WHOH.03.jpg" alt="">
               </a>
             </td>
         </tr>
@@ -359,7 +359,7 @@
     <img src="" alt="" />
   </div>
   <div class="footer">
-    <p>Last update: 18 February 2026, 09:48 AM UTC</p>
+    <p>Last update: 18 February 2026, 05:51 PM UTC</p>
   </div>
   <script>
     document.querySelectorAll(".trigger").forEach(trigger => {
